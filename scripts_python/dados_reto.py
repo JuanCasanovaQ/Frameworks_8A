@@ -27,7 +27,5 @@ def dices() :
         else :
             pares = 0
             key = input(".:: Presiona cualquier tecla para lanzar los dados nuevamente ...")
-           
-
 #Main
 dices()
